@@ -1,0 +1,35 @@
+{
+    "1": {
+        "account": "a",
+        "password": "a",
+        "mail": "a",
+        "rank_point": 0,
+        "music_ch": 0,
+        "vip": 0,
+        "coupons": 0,
+        "online": 0,
+        "id": "1"
+    },
+    "2": {
+        "account": "b",
+        "password": "b",
+        "mail": "b",
+        "rank_point": 0,
+        "music_ch": 1,
+        "vip": 0,
+        "coupons": 1200,
+        "online": 0,
+        "id": "2"
+    },
+    "3": {
+        "account": "v",
+        "password": "v",
+        "mail": "v",
+        "rank_point": 60,
+        "music_ch": 1,
+        "vip": 1,
+        "coupons": 4602,
+        "online": 0,
+        "id": "3"
+    }
+}
