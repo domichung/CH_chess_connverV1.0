@@ -1,17 +1,17 @@
 ﻿# CH_chess_connverV1.0
 
 已刪除檔案
-|
-|
-|---->music
-|        |----->music a
-|        |----->music b
-|        |----->music c
-|
-|
-|------>back1.jpg
-|------>back2.jpg
-|------>back3.jpg
+  |
+  |
+  |---->music
+  |        |----->music a
+  |        |----->music b
+  |        |----->music c
+  |
+  |
+  |------>back1.jpg
+  |------>back2.jpg
+  |------>back3.jpg
 
 
 音樂可以無限加 其他東西但需要更改 預設音樂路徑
